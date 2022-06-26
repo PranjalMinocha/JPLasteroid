@@ -12,19 +12,3 @@ The diameter of an asteroid is one the most important physical parameter of an a
 * Train and evaluate model performance by choosing suitable metrics (r2-score)
 * Tune hyper-parameters to get better results
 * Present inferences and results
-
-### Timeline
-#### Week 1: `1 Aug,22` - `7 Aug,22`
-* Get basic intuition behind Machine Learning
-* Get comfortable with using Python, Google Colab and Github
-* Learn how to handle data in python using pandas and numpy
-```
-Weekly Submission: 
-```
-#### Week 2: `8 Aug,22` - `14 Aug,22`
-* Learn some basic EDA techniques, present data properly using plots.
-* Get comfortable with using Python and Google Colab
-* Try some basic regression models on Colab
-```
-Weekly Submission: Build a regression model on any dataset and submit results.
-```
