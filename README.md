@@ -8,6 +8,7 @@ The diameter of an asteroid is one the most important physical parameter of an a
 
 * [Asteroid Diameter Prediction using MLP](http://www.iraj.in/journal/journal_file/journal_pdf/12-555-156136953136-40.pdf)
 * [Dataset](https://www.kaggle.com/datasets/basu369victor/prediction-of-asteroid-diameter)
+* [Asteroids: Crash Course](https://www.youtube.com/watch?v=auxpcdQimCs)
 * [Numpy, Pandas and Matplotlib tutorial](https://cloudxlab.com/blog/numpy-pandas-introduction/)
 * [EDA in python](https://www.analyticsvidhya.com/blog/2022/02/exploratory-data-analysis-in-python/#:~:text=Exploratory%20Data%20Analysis%20(EDA)%20in,analysis%20and%20non%2Dgraphical%20analysis.)
 * [Linear Regression using scikit-learn](https://stackabuse.com/linear-regression-in-python-with-scikit-learn/)
