@@ -12,6 +12,7 @@ The diameter of an asteroid is one the most important physical parameter of an a
 * [Numpy, Pandas and Matplotlib tutorial](https://cloudxlab.com/blog/numpy-pandas-introduction/)
 * [EDA in python](https://www.analyticsvidhya.com/blog/2022/02/exploratory-data-analysis-in-python/#:~:text=Exploratory%20Data%20Analysis%20(EDA)%20in,analysis%20and%20non%2Dgraphical%20analysis.)
 * [Linear Regression using scikit-learn](https://stackabuse.com/linear-regression-in-python-with-scikit-learn/)
+* [GridSearchCV](https://www.youtube.com/watch?v=HdlDYng8g9s)
 * [3B1B: What is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk)
 * [Tensorflow tutorial](https://www.tensorflow.org/tutorials/quickstart/beginner)
 * [Regression using Neural Networks](https://www.analyticsvidhya.com/blog/2021/08/a-walk-through-of-regression-analysis-using-artificial-neural-networks-in-tensorflow/)
