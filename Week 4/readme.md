@@ -1,4 +1,4 @@
-#### Week 4: `22 Aug,22` - `28 Aug,22`
+#### Week 4: `15th Sept,22` - `21 Sept,22`
 * Learn about neural networks and deep learning
 * Understand how neural networks learn, backpropagation
 * Neural networks as functional mapping between inputs and target
