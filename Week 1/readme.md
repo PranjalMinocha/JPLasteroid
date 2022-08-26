@@ -1,8 +1,7 @@
-#### Week 1: `1 Aug,22` - `7 Aug,22`
-* Get basic intuition behind Machine Learning
-* Get comfortable with using Python, Google Colab and Github
-* Learn how to handle data in python using pandas and numpy
-* Present data effectively using matplotlib
+#### Week 1: `25th Aug,22` - `1st Sept,22`
+* Get comfortable with using Google Colab and Github
+* Perform basic EDA on the Asteroid dataset
+* Present results and inferences effectively using Seaborn and MatplotLib
 ```
-Weekly Submission: Play around with the JPL dataset
+Weekly Submission: Basic EDA on the dataset (upload colab notebook)
 ```
