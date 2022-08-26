@@ -1,7 +1,7 @@
-#### Week 5: `29 Aug,22` - `4 Sept,22`
-* Train the DNN on JPL dataset
+#### Week 5: `22nd Sept,22` - `28th Sept,22`
+* Train the DNN/ML model on JPL dataset
 * Play around with hyperparameters (no. of layers, neurons, learning rate, momentum)
-* Present results using plots
+* Create a report of the work done in 5 weeks
 ```
-Weekly Submission: Evaluate DNN performance using suitable metrics and submit codes.
+Weekly Submission: Submit the project report
 ```
